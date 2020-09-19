@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+.Centerer {
+    position: relative;
+    width: 88%;
+    margin: 0 auto;
+    background: url("best rapper ever.jpg") repeat #fc0;
+    background-size: 50%
+    color: springgreen;
+}
+.avatar {
+    width: 88%;
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+}
